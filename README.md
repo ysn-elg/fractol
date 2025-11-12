@@ -14,7 +14,6 @@ make re       # rebuilds everything
 
 ## 🚀 Usage
 ./fractol mandelbrot  
-./fractol julia  
 ./fractol julia <real> <imaginary>
 
 ### 🖱️ Controls
