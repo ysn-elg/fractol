@@ -14,7 +14,7 @@ make re       # rebuilds everything
 
 ## 🚀 Usage
 ./fractol mandelbrot  
-./fractol julia <real> <imaginary>
+./fractol julia 'real' 'imaginary'
 
 ### 🖱️ Controls
 Zoom → Scroll up/down  
